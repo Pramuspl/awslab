@@ -1,7 +1,8 @@
 var lab1_1 = require("./lab/lab1_1").lab
 var example_1 = require("./example_1").lab;
+var zad1 = require("./lab/zad1").lab;
 
-var PORT = 8080;
+var PORT = 8081;
 
 
 var urlMap = [
